@@ -1,0 +1,6 @@
+{
+  "name": "Echo External",
+  "priority": 10,
+  "handled_types": [],
+  "category": "External"
+}

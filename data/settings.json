@@ -1,0 +1,15 @@
+{
+    "encryption_key": "1234",
+    "broker_url": "broker.hivemq.com",
+    "broker_port": 1883,
+    "topic": "\/commands\/",
+    "broker_history": [
+        "broker.hivemq.com",
+        "mqtt.flespi.io"
+    ],
+    "sound_enabled": true,
+    "sound_cooldown": 60,
+    "logging_enabled": false,
+    "log_level": "INFO",
+    "presence_verbose": false
+}

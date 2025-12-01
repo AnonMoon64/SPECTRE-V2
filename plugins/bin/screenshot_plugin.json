@@ -1,0 +1,8 @@
+{
+  "name": "Take Screenshot",
+  "menu_action": "Take Screenshot (external)",
+  "priority": 60,
+  "handled_types": [],
+  "category": "Interaction",
+  "description": "Cross-platform screenshot helper (example). Save as binary with PyInstaller or run as script."
+}
